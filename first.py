@@ -73,3 +73,13 @@ print(hun)
 print(num)
 
 
+import math 
+# alies
+import math as m 
+
+# 
+from math import sqrt , log
+print(int(math.sqrt(4)))
+print(int(m.sqrt(4)))
+print(sqrt(10))
+print(log(10))
