@@ -26,3 +26,13 @@ print(bool(None))
 input = input("Enter your value : ")
 y = int(input) + 1
 print(y)
+
+
+
+x = 10
+y = "hello"
+z = 3.5
+
+print(isinstance(x, int))    # True
+print(isinstance(y, str))    # True
+print(isinstance(z, float))  # True
